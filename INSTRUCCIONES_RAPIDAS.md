@@ -1,8 +1,8 @@
-# 🚀 INSTRUCCIONES RÁPIDAS - Sistema de Scoring de Crédito
+#  INSTRUCCIONES RÁPIDAS - Sistema de Scoring de Crédito
 
-## 📦 ARCHIVO LISTO PARA DESCARGAR
+##  ARCHIVO LISTO PARA DESCARGAR
 
-✅ **Archivo ZIP creado**: `sistema-scoring-credito.zip`
+ **Archivo ZIP creado**: `sistema-scoring-credito.zip`
 
 Este archivo contiene TODO el proyecto completo y funcional.
 
@@ -10,12 +10,12 @@ Este archivo contiene TODO el proyecto completo y funcional.
 
 ## 🔧 INSTALACIÓN RÁPIDA
 
-### 1️⃣ **Descargar y Extraer**
+### 1️ **Descargar y Extraer**
 - Descarga el archivo `sistema-scoring-credito.zip`
 - Extrae en tu computadora
 - Abre la carpeta en VS Code
 
-### 2️⃣ **Instalar Dependencias**
+### 2️**Instalar Dependencias**
 
 **Frontend (Next.js):**
 ```bash
@@ -28,13 +28,13 @@ cd backend
 pip install -r requirements.txt
 ```
 
-### 3️⃣ **Entrenar el Modelo (Solo la primera vez)**
+### 3️ **Entrenar el Modelo (Solo la primera vez)**
 ```bash
 cd backend
 python train_model.py
 ```
 
-### 4️⃣ **Ejecutar el Sistema**
+### 4️ **Ejecutar el Sistema**
 
 **Opción A - Automático (Recomendado):**
 ```bash
@@ -57,7 +57,7 @@ npm run dev
 
 ---
 
-## 🌐 ACCESO AL SISTEMA
+##  ACCESO AL SISTEMA
 
 - **Aplicación Web**: http://localhost:3000
 - **API Backend**: http://localhost:8000
@@ -65,21 +65,21 @@ npm run dev
 
 ---
 
-## 📋 LO QUE INCLUYE EL ZIP
+##  LO QUE INCLUYE EL ZIP
 
-### ✅ **Backend Python Completo**
+###  **Backend Python Completo**
 - API REST con FastAPI
 - Modelo de Machine Learning entrenado
 - Base de datos SQLite
 - Sistema de validación robusto
 
-### ✅ **Frontend Next.js Completo**
+###  **Frontend Next.js Completo**
 - Interfaz moderna y responsive
 - Formulario de evaluación crediticia
 - Resultados detallados con explicaciones
 - Diseño profesional con Tailwind CSS
 
-### ✅ **Funcionalidades**
+###  **Funcionalidades**
 - Scoring de 0-100 puntos
 - Clasificación de riesgo (Alto/Medio/Bajo)
 - Análisis de 11+ variables financieras
@@ -88,7 +88,7 @@ npm run dev
 
 ---
 
-## 🎯 EJEMPLO DE USO
+##  EJEMPLO DE USO
 
 1. **Abrir**: http://localhost:3000
 2. **Llenar formulario** con datos como:
@@ -102,7 +102,7 @@ npm run dev
 
 ---
 
-## 🔍 VERIFICAR QUE TODO FUNCIONA
+##  VERIFICAR QUE TODO FUNCIONA
 
 ### Test rápido del backend:
 ```bash
@@ -115,7 +115,7 @@ Abrir http://localhost:3000 - debe mostrar la página principal
 
 ---
 
-## 📞 SOPORTE
+##  SOPORTE
 
 Si tienes problemas:
 1. Verificar que Node.js y Python estén instalados
@@ -124,7 +124,7 @@ Si tienes problemas:
 
 ---
 
-## 🎉 ¡LISTO PARA USAR!
+##  ¡LISTO PARA USAR!
 
 El sistema está completamente funcional y listo para:
 - Bancos y entidades financieras
@@ -132,4 +132,4 @@ El sistema está completamente funcional y listo para:
 - Evaluación de riesgo crediticio
 - Desarrollo y personalización adicional
 
-**¡Disfruta tu sistema de scoring de crédito profesional!** 🏦✨
+
